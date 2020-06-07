@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "WELCOM TO FLIP COIN COMBINATION PROBLEM"
